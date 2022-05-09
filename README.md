@@ -37,7 +37,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer)
 <a href="https://supabase.com/" target="_blank">
 <img align="left" alt="supabase" src="https://raw.githubusercontent.com/idolieb26/idolieb26/main/assets/supabase.jpg" height ="42px"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
 
