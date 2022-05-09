@@ -8,10 +8,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer)
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Familiar with React/Vue/Angular/Node/Nest and Python/Django.
+- 🌱 &nbsp; Familiar with React/Vue/Svelte/Node/Nest and Python/Django.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📚 &nbsp; When I am free, I play basketball.
+- 📚 &nbsp; When I am free, I play basketball and tennis.
+- 📝 &nbsp; Checkout my [portfolio](https://idoliebstein.netlify.app)
 
+<br />
+<br />
 <br />
 <br />
 <br />
