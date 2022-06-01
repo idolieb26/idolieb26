@@ -13,13 +13,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer)
 - 📝 &nbsp; Checkout my [portfolio](https://idoliebstein.netlify.app)
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/javascript/javascript.svg"> </a>
