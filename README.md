@@ -7,7 +7,7 @@ I am a full stack developer and love exploring new tech stack 💻 and leveragin
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Familiar with React/Vue/Svelte/Node/Nest and Python/Django.
+- 🌱 &nbsp; Familiar with React/Vue/Svelte/Node/Nest/Python/Django/Rails.
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📚 &nbsp; When I am free, I play basketball and tennis.
 - 📝 &nbsp; Checkout my [portfolio](https://idoliebstein.netlify.app)
