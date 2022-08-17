@@ -38,6 +38,6 @@ I am a full stack developer and love exploring new tech stack 💻 and leveragin
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicodev-git&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodev-git&layout=compact&theme=radical" width="43%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=idolieb26&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idolieb26&layout=compact&theme=radical" width="43%"/>
 </p>
