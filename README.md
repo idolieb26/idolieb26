@@ -1,15 +1,9 @@
 ## Hey 👋, I'm Ido Liebstein!
-I am a full stack developer and love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a full stack developer and love jokes and challenges.
 <br/>
-<br/>
-
-  
-### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Familiar with React/Vue/Svelte/Node/Nest/Python/Django.
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📚 &nbsp; When I am free, I play basketball and tennis.
+- 🌱 &nbsp; Expertise in React/Vue/Svelte/Node/Nest/Python/Django.
 - 📝 &nbsp; Checkout my [portfolio](https://idoliebstein.netlify.app)
 
 <br />
