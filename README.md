@@ -3,7 +3,7 @@ I am a full stack developer and love jokes and challenges.
 <br/>
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Expertise in React/Vue/Angular/Node/Nest/Python/Django.
+- 🌱 &nbsp; Expertise in React/Vue/Svelte/Angular/Node/Nest/Python/Django.
 - 📝 &nbsp; Checkout my [portfolio](https://idoliebstein.netlify.app)
 
 <br />
