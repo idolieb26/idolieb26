@@ -24,7 +24,7 @@ I am a full stack developer and love jokes and challenges.
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="40px" src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/python/python.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://supabase.com/" target="_blank">
-<img align="left" alt="supabase" src="https://raw.githubusercontent.com/idolieb26/idolieb26/main/assets/supabase.jpg" height ="42px"/></a>
+<img align="left" alt="supabase" src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/supabase/supabase.svg" height ="42px"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/idolieb26/myicons/master/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
